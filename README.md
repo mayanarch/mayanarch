@@ -33,7 +33,7 @@
 | AI & No-Code Platforms     | 3D & Game Engines             | Programming & UX       |
 |----------------------------|------------------------------|-----------------------|
 | create.xyz, Bolt AI, Glide | Unreal Engine, Minecraft mod | UI/UX Design, Figma   |
-| Gamma                      | AI text-to-3D game builders  | Python (basic)         |
+| Gamma, etc                 | AI text-to-3D game builders  | Python and java       |
 
 ---
 
