@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Asmit A. Mohanty - AI  Innovator 🎮🤖
+# 👋 Hello, I'm Mayan - AI  Innovator 🎮🤖
 
 <p align="center">
   <em>Crafting the future with AI, math, and immersive 3D worlds.</em>
